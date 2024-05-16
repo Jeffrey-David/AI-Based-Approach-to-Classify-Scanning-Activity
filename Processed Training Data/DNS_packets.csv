@@ -1,0 +1,1081 @@
+Timestamp,ID,QDCount,ANCount,QD,TTL,QueryType,label
+2024-04-09 10:30:26,62695,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62696,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62697,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62698,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62699,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62700,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62701,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62695,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62696,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62697,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62698,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62699,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62700,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62701,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62702,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:30:26,62702,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:32:33,32943,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:32:33,32943,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14570,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14571,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14572,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14573,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14574,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14575,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14576,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14570,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14571,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14572,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14573,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14574,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14575,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14576,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14577,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:42:40,14577,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:29:04,17003,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:29:04,17003,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:28:19,23688,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:28:19,23688,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42740,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42741,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42742,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42743,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42744,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42745,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42746,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42740,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42741,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42745,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42742,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42743,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42744,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42746,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42747,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:41:13,42747,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:01:00,19348,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:01:00,19348,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 09:57:53,19842,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 09:57:53,19842,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:02:07,27064,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:02:07,27064,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:02:45,10500,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:02:45,10500,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45683,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45684,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45685,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45686,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45687,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45688,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45689,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45683,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45684,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45685,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45686,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45688,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45687,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45689,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45690,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:36:38,45690,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:03:46,45904,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:03:46,45904,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:06:25,49125,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:06:25,49125,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:06:25,2837,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:06:25,2837,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:07:46,49923,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:07:46,49923,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:07:46,8532,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:07:46,8532,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:08:12,35402,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:08:12,35402,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60600,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60601,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60602,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60603,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60604,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60605,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60606,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60600,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60601,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60602,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60603,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60604,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60605,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60606,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60607,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,60607,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,57103,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,57103,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,52710,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,52710,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,28811,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,28811,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,22302,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:27,22302,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,450,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,450,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33256,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33238,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33256,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,27128,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33238,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,27128,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,10788,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,10788,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,46906,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,16206,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33577,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,46906,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,16206,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:28,33577,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:39:35,0,1,0,MSI.local.,,255,host scan
+2024-04-10 19:39:35,0,1,0,MSI.local.,,255,host scan
+2024-04-10 19:39:35,0,0,2,,60,,host scan
+2024-04-10 19:39:35,0,1,0,MSI.local.,,255,host scan
+2024-04-10 19:39:35,0,1,0,MSI.local.,,255,host scan
+2024-04-10 19:39:35,0,0,2,,60,,host scan
+2024-04-10 19:39:35,0,0,2,,60,,host scan
+2024-04-10 19:39:35,0,0,2,,60,,host scan
+2024-04-09 10:09:09,25353,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:09:09,25353,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:09:36,0,1,0,MSI.local.,,255,host scan
+2024-04-09 10:09:36,0,1,0,MSI.local.,,255,host scan
+2024-04-09 10:09:36,0,0,2,,60,,host scan
+2024-04-09 10:09:36,0,1,0,MSI.local.,,255,host scan
+2024-04-09 10:09:36,0,1,0,MSI.local.,,255,host scan
+2024-04-09 10:09:36,0,0,2,,60,,host scan
+2024-04-09 10:09:36,0,0,2,,60,,host scan
+2024-04-09 10:09:36,0,0,2,,60,,host scan
+2024-04-09 10:13:58,6,1,0,version.bind.,,16,host scan
+2024-04-09 10:13:58,0,0,0,,,,host scan
+2024-04-09 10:13:58,6,1,1,version.bind.,0,16,host scan
+2024-04-09 10:13:58,0,0,0,,,,host scan
+2024-04-09 10:13:58,6,1,1,version.bind.,0,16,host scan
+2024-04-09 10:13:58,0,0,0,,,,host scan
+2024-04-09 10:16:19,58112,1,0,.,,0,host scan
+2024-04-09 10:16:19,0,1,0,_services._dns-sd._udp.local.,,12,host scan
+2024-04-09 10:16:19,0,1,0,_services._dns-sd._udp.local.,,12,host scan
+2024-04-09 10:16:19,58112,1,0,.,,0,host scan
+2024-04-09 10:26:10,63492,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:26:10,63492,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44593,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44594,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44595,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44596,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44597,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44598,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44599,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44593,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44595,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44594,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44596,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44597,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44598,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44599,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44600,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:08,44600,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,4672,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,10995,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,4672,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,10995,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,15216,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,15216,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,46721,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,46721,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,53772,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,53772,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,64532,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,64532,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,60827,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,60827,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,51046,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,39968,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,51046,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,39968,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,23347,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,23347,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,50057,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:13,50057,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,6,1,0,version.bind.,,16,host scan
+2024-04-10 19:56:19,6,1,0,version.bind.,,16,host scan
+2024-04-10 19:56:19,6,1,1,version.bind.,0,16,host scan
+2024-04-10 19:56:19,5188,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,23359,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,60283,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,5188,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,23359,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,60283,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,6,1,1,version.bind.,0,16,host scan
+2024-04-10 19:56:19,49715,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,49715,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,60595,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,60595,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,6,1,0,version.bind.,,16,host scan
+2024-04-10 19:56:19,6,1,1,version.bind.,0,16,host scan
+2024-04-10 19:56:19,40618,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,40219,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,5866,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,40618,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,40219,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,5866,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,21984,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,21984,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,8232,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,8232,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,54908,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,54908,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,41936,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,41936,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,33827,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,20003,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,56754,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,33827,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,20003,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,56754,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,42974,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,37301,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,42974,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,37301,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,65096,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,65096,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,19099,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,19099,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,39115,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,39115,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,30863,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,30863,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,16735,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:19,16735,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,54910,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,54910,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,29202,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,29202,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,32103,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:24,32103,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,6,1,0,version.bind.,,16,host scan
+2024-04-10 19:56:25,6,1,1,version.bind.,0,16,host scan
+2024-04-10 19:56:25,11409,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,11409,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,44878,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,44878,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,61110,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,61110,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,27917,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,27917,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,26897,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,26897,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,17479,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,17479,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,24949,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,24949,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,9136,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,9136,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,35815,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,35815,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,28689,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,28689,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,55279,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:25,55279,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:30,10385,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:30,10385,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:30,6,1,0,version.bind.,,16,host scan
+2024-04-10 19:56:30,6,1,1,version.bind.,0,16,host scan
+2024-04-10 19:56:31,30632,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,30632,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,5510,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,5510,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,33179,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,33179,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,13902,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:31,13902,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:34,9754,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:34,9754,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:35,57929,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:35,57929,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:36,64054,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:56:36,64054,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,8363,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,8363,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,64659,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,64659,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:14,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:14,8048,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,8048,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,31481,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,31481,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,13639,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:14,13639,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,58519,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,58519,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,63352,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,63352,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,64134,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,64134,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,2155,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,2155,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,12200,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,12200,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,20462,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:15,20462,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,3112,1,0,scanme.nmap.org.,,1,host scan
+2024-04-10 19:58:16,3112,1,1,scanme.nmap.org.,5,1,host scan
+2024-04-10 19:58:16,22875,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,22875,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,53987,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,53987,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,11138,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,11138,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,19919,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,19919,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,50380,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:16,50380,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,54666,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,54666,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,60629,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,60629,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,51436,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:17,51436,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:18,1,1,0,version.bind.,,16,host scan
+2024-04-10 19:58:18,1,1,1,version.bind.,0,16,host scan
+2024-04-10 19:58:18,33650,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:18,33650,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:18,25090,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:18,25090,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,64558,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,64558,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,38270,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,38270,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,25443,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,25443,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,32674,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:19,32674,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,2734,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,2734,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,18259,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,55496,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,18259,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,55496,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:20,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:20,26553,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:20,26553,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,54580,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,54580,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,27795,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,27795,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,50361,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,50361,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,18698,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:21,18698,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,32988,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,32988,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,65234,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,65234,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:22,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:22,27799,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:22,27799,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:23,41087,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:23,41087,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:23,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:23,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:23,59266,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:23,59266,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,15635,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,116,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,15635,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,116,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,3883,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,3883,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,43294,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,43294,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:24,1,1,0,version.bind.,,16,host scan
+2024-04-10 19:58:24,1,1,1,version.bind.,0,16,host scan
+2024-04-10 19:58:25,53987,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,53987,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,26115,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,26115,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,17867,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,17867,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,2304,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,59900,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,2304,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:25,59900,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:26,1,1,0,id.server.,,16,host scan
+2024-04-10 19:58:26,9699,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,9699,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,42767,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,42767,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36096,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36096,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,46537,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,46537,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36974,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36974,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36175,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:26,36175,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,1,1,0,version.bind.,,16,host scan
+2024-04-10 19:58:27,1,1,1,version.bind.,0,16,host scan
+2024-04-10 19:58:27,20435,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,20435,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,49119,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,49119,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,10612,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,10612,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:58:27,1,1,0,version.bind.,,16,host scan
+2024-04-10 19:58:27,1,1,1,version.bind.,0,16,host scan
+2024-04-10 19:58:30,1,1,0,version.bind.,,16,host scan
+2024-04-10 19:58:30,1,1,1,version.bind.,0,16,host scan
+2024-04-10 19:59:31,21960,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,21960,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5611,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,55830,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,50147,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,18735,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5611,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5624,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,65399,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,36321,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,55830,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,50147,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,18735,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,65399,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5624,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,36321,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,64184,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,64184,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,30258,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,30258,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,36384,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,36384,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,43882,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,12546,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,43882,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,12546,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,44253,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,44253,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,44708,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,14606,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,44708,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,14606,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,22414,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,11490,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,22414,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,11490,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,32199,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,32199,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,20291,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,60984,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,20291,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,60984,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,2161,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,2161,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,25356,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,25356,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,42881,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,4492,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,61547,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,42881,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,4492,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,61547,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,53653,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,41042,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,53653,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,41042,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,17525,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,17525,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5236,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:31,5236,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,298,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,298,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,60447,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,60447,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,16734,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,16734,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,43928,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:32,43928,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,22296,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,22296,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,411,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,411,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,59676,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:33,59676,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:34,15329,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:34,15329,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:35,21393,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:35,21393,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:35,35081,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:35,35081,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,21268,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,21268,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,41773,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,41773,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,40261,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,40261,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,28242,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,28242,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,52966,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:36,52966,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:37,38983,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:37,38983,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:37,34196,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:37,34196,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,2322,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,2322,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,37535,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,37535,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,34070,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,34070,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,4251,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:38,4251,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,53958,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,53958,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,37459,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,37459,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,51896,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,51896,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,529,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,529,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,5331,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:59:39,5331,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:52:45,16813,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:52:45,16813,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:52:17,23704,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:52:17,23704,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:40:36,36609,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:40:36,36609,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:53:22,53526,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 13:53:22,53526,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37341,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37342,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37343,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37344,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37345,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37346,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37347,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37341,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37342,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37343,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37347,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37344,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37345,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37346,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37348,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 20:01:04,37348,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:48:51,31989,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:48:51,31989,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:39:26,40197,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 10:39:26,40197,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:48:17,51436,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:48:17,51436,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:49:55,43581,1,0,....in-addr.arpa.,,12,host scan
+2024-04-09 11:49:55,43581,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40514,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40515,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40516,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40517,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40518,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40519,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40520,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40514,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40515,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40516,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40517,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40518,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40520,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40519,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40521,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 19:54:02,40521,1,0,....in-addr.arpa.,,12,host scan
+2024-04-10 13:26:29,41719,1,0,contile.services.mozilla.com.,,1,normal
+2024-04-10 13:26:29,18678,1,0,contile.services.mozilla.com.,,28,normal
+2024-04-10 13:26:29,41719,1,1,contile.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:29,18678,1,0,contile.services.mozilla.com.,,28,normal
+2024-04-10 13:26:30,28236,1,0,r.o.lencr.org.,,1,normal
+2024-04-10 13:26:30,39603,1,0,r.o.lencr.org.,,28,normal
+2024-04-10 13:26:30,28236,1,4,r.o.lencr.org.,5,1,normal
+2024-04-10 13:26:30,39603,1,4,r.o.lencr.org.,5,28,normal
+2024-04-10 13:26:30,52568,1,0,firefox.settings.services.mozilla.com.,,1,normal
+2024-04-10 13:26:30,14426,1,0,firefox.settings.services.mozilla.com.,,28,normal
+2024-04-10 13:26:30,14426,1,1,firefox.settings.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:30,52568,1,2,firefox.settings.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:31,3555,1,0,shavar.services.mozilla.com.,,1,normal
+2024-04-10 13:26:31,60389,1,0,shavar.services.mozilla.com.,,28,normal
+2024-04-10 13:26:31,3555,1,4,shavar.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:31,60389,1,1,shavar.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:31,43770,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:26:31,34047,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:26:31,43770,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:31,34047,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:31,36496,1,0,content-signature-.cdn.mozilla.net.,,1,normal
+2024-04-10 13:26:31,14994,1,0,content-signature-.cdn.mozilla.net.,,28,normal
+2024-04-10 13:26:31,56304,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:26:31,46582,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:26:31,46582,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:31,30243,1,0,r.o.lencr.org.,,1,normal
+2024-04-10 13:26:31,14381,1,0,r.o.lencr.org.,,28,normal
+2024-04-10 13:26:31,30243,1,4,r.o.lencr.org.,5,1,normal
+2024-04-10 13:26:31,14381,1,4,r.o.lencr.org.,5,28,normal
+2024-04-10 13:26:33,36496,1,3,content-signature-.cdn.mozilla.net.,5,1,normal
+2024-04-10 13:26:33,14994,1,3,content-signature-.cdn.mozilla.net.,5,28,normal
+2024-04-10 13:26:33,56304,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:33,43148,1,0,r.o.lencr.org.,,1,normal
+2024-04-10 13:26:33,43148,1,4,r.o.lencr.org.,5,1,normal
+2024-04-10 13:26:33,23190,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:26:33,14571,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:26:33,23190,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:33,14571,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:48,8096,1,0,www.google.com.,,1,normal
+2024-04-10 13:26:48,13985,1,0,www.google.com.,,28,normal
+2024-04-10 13:26:48,8096,1,6,www.google.com.,5,1,normal
+2024-04-10 13:26:48,13985,1,4,www.google.com.,5,28,normal
+2024-04-10 13:26:48,40500,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:26:48,18986,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:26:48,40500,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:26:48,18986,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:26:48,15070,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:26:48,22239,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:26:48,15070,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:26:48,22239,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:26:48,34737,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:26:48,17584,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:26:49,17584,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:26:49,62306,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:26:49,59239,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:26:49,62306,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:26:49,59239,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:26:49,24193,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:26:49,24193,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:26:50,17078,1,0,apis.google.com.,,1,normal
+2024-04-10 13:26:50,64137,1,0,apis.google.com.,,28,normal
+2024-04-10 13:26:50,17078,1,7,apis.google.com.,5,1,normal
+2024-04-10 13:26:50,64137,1,5,apis.google.com.,5,28,normal
+2024-04-10 13:26:50,28004,1,0,www.google.com.sg.,,1,normal
+2024-04-10 13:26:50,26905,1,0,www.google.com.sg.,,28,normal
+2024-04-10 13:26:50,28004,1,1,www.google.com.sg.,5,1,normal
+2024-04-10 13:26:50,26905,1,1,www.google.com.sg.,5,28,normal
+2024-04-10 13:26:50,27708,1,0,adservice.google.com.,,1,normal
+2024-04-10 13:26:50,2338,1,0,adservice.google.com.,,28,normal
+2024-04-10 13:26:50,27708,1,4,adservice.google.com.,5,1,normal
+2024-04-10 13:26:50,2338,1,4,adservice.google.com.,5,28,normal
+2024-04-10 13:26:50,58037,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:26:50,1974,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:26:50,58037,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:26:50,1974,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:26:50,34737,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:26:51,15255,1,0,apis.google.com.,,1,normal
+2024-04-10 13:26:51,3477,1,0,apis.google.com.,,28,normal
+2024-04-10 13:26:51,15255,1,7,apis.google.com.,5,1,normal
+2024-04-10 13:26:51,3477,1,5,apis.google.com.,5,28,normal
+2024-04-10 13:26:51,61093,1,0,adservice.google.com.sg.,,1,normal
+2024-04-10 13:26:51,16550,1,0,adservice.google.com.sg.,,28,normal
+2024-04-10 13:26:51,61093,1,5,adservice.google.com.sg.,5,1,normal
+2024-04-10 13:26:53,16550,1,5,adservice.google.com.sg.,5,28,normal
+2024-04-10 13:26:53,20809,1,0,googleads.g.doubleclick.net.,,1,normal
+2024-04-10 13:26:53,56136,1,0,googleads.g.doubleclick.net.,,28,normal
+2024-04-10 13:26:53,23591,1,0,adservice.google.com.,,1,normal
+2024-04-10 13:26:53,8225,1,0,adservice.google.com.,,28,normal
+2024-04-10 13:26:53,23591,1,4,adservice.google.com.,5,1,normal
+2024-04-10 13:26:53,8225,1,4,adservice.google.com.,5,28,normal
+2024-04-10 13:26:53,56136,1,4,googleads.g.doubleclick.net.,5,28,normal
+2024-04-10 13:26:53,20809,1,4,googleads.g.doubleclick.net.,5,1,normal
+2024-04-10 13:26:55,43077,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:26:55,29890,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:26:55,32707,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:26:55,65346,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:26:55,43077,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:26:55,65346,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:26:55,29890,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:26:55,32707,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:26:55,975,1,0,id.google.com.,,1,normal
+2024-04-10 13:26:55,38605,1,0,id.google.com.,,28,normal
+2024-04-10 13:26:55,38605,1,1,id.google.com.,5,28,normal
+2024-04-10 13:26:55,975,1,1,id.google.com.,5,1,normal
+2024-04-10 13:26:56,18997,1,0,i.ytimg.com.,,1,normal
+2024-04-10 13:26:56,59443,1,0,i.ytimg.com.,,28,normal
+2024-04-10 13:26:56,18997,1,11,i.ytimg.com.,5,1,normal
+2024-04-10 13:26:56,59443,1,4,i.ytimg.com.,5,28,normal
+2024-04-10 13:26:56,44212,1,0,encrypted-tbn.gstatic.com.,,1,normal
+2024-04-10 13:26:56,50870,1,0,encrypted-tbn.gstatic.com.,,28,normal
+2024-04-10 13:26:56,44212,1,6,encrypted-tbn.gstatic.com.,5,1,normal
+2024-04-10 13:26:56,50870,1,4,encrypted-tbn.gstatic.com.,5,28,normal
+2024-04-10 13:26:56,11150,1,0,adservice.google.com.sg.,,1,normal
+2024-04-10 13:26:56,55181,1,0,adservice.google.com.sg.,,28,normal
+2024-04-10 13:26:56,11150,1,5,adservice.google.com.sg.,5,1,normal
+2024-04-10 13:26:56,55181,1,5,adservice.google.com.sg.,5,28,normal
+2024-04-10 13:26:56,57719,1,0,googleads.g.doubleclick.net.,,1,normal
+2024-04-10 13:26:56,4713,1,0,googleads.g.doubleclick.net.,,28,normal
+2024-04-10 13:26:56,57719,1,4,googleads.g.doubleclick.net.,5,1,normal
+2024-04-10 13:26:56,4713,1,4,googleads.g.doubleclick.net.,5,28,normal
+2024-04-10 13:26:56,65283,1,0,www.youtube.com.,,1,normal
+2024-04-10 13:26:56,65283,1,17,www.youtube.com.,5,1,normal
+2024-04-10 13:26:56,27650,1,0,www.youtube.com.,,28,normal
+2024-04-10 13:26:56,27650,1,5,www.youtube.com.,5,28,normal
+2024-04-10 13:26:57,64653,1,0,www.youtube.com.,,1,normal
+2024-04-10 13:26:57,24200,1,0,www.youtube.com.,,28,normal
+2024-04-10 13:26:57,64653,1,17,www.youtube.com.,5,1,normal
+2024-04-10 13:26:57,24200,1,5,www.youtube.com.,5,28,normal
+2024-04-10 13:26:57,21496,1,0,i.ytimg.com.,,1,normal
+2024-04-10 13:26:57,65526,1,0,i.ytimg.com.,,28,normal
+2024-04-10 13:26:57,21496,1,11,i.ytimg.com.,5,1,normal
+2024-04-10 13:26:57,65526,1,4,i.ytimg.com.,5,28,normal
+2024-04-10 13:26:57,46685,1,0,fonts.googleapis.com.,,1,normal
+2024-04-10 13:26:57,27226,1,0,fonts.googleapis.com.,,28,normal
+2024-04-10 13:26:57,27226,1,1,fonts.googleapis.com.,5,28,normal
+2024-04-10 13:26:57,46685,1,1,fonts.googleapis.com.,5,1,normal
+2024-04-10 13:26:57,59141,1,0,services.addons.mozilla.org.,,1,normal
+2024-04-10 13:26:57,49415,1,0,services.addons.mozilla.org.,,28,normal
+2024-04-10 13:26:57,59141,1,4,services.addons.mozilla.org.,5,1,normal
+2024-04-10 13:26:57,49415,1,0,services.addons.mozilla.org.,,28,normal
+2024-04-10 13:26:57,15414,1,0,location.services.mozilla.com.,,1,normal
+2024-04-10 13:26:57,10032,1,0,location.services.mozilla.com.,,28,normal
+2024-04-10 13:26:57,37492,1,0,normandy.cdn.mozilla.net.,,1,normal
+2024-04-10 13:26:57,39802,1,0,normandy.cdn.mozilla.net.,,28,normal
+2024-04-10 13:26:57,15414,1,4,location.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:57,10032,1,1,location.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:57,37492,1,2,normandy.cdn.mozilla.net.,5,1,normal
+2024-04-10 13:26:57,39802,1,1,normandy.cdn.mozilla.net.,5,28,normal
+2024-04-10 13:26:57,55276,1,0,classify-client.services.mozilla.com.,,1,normal
+2024-04-10 13:26:57,60655,1,0,classify-client.services.mozilla.com.,,28,normal
+2024-04-10 13:26:57,55276,1,2,classify-client.services.mozilla.com.,5,1,normal
+2024-04-10 13:26:57,60655,1,1,classify-client.services.mozilla.com.,5,28,normal
+2024-04-10 13:26:57,46150,1,0,firefox-settings-attachments.cdn.mozilla.net.,,1,normal
+2024-04-10 13:26:57,57668,1,0,firefox-settings-attachments.cdn.mozilla.net.,,28,normal
+2024-04-10 13:26:57,46150,1,2,firefox-settings-attachments.cdn.mozilla.net.,5,1,normal
+2024-04-10 13:26:57,57668,1,1,firefox-settings-attachments.cdn.mozilla.net.,5,28,normal
+2024-04-10 13:26:57,52585,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:26:57,24938,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:26:57,52585,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:26:57,24938,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:26:57,14058,1,0,accounts.google.com.,,1,normal
+2024-04-10 13:26:57,45291,1,0,accounts.google.com.,,28,normal
+2024-04-10 13:26:57,45291,1,1,accounts.google.com.,5,28,normal
+2024-04-10 13:26:57,14058,1,1,accounts.google.com.,5,1,normal
+2024-04-10 13:26:58,44902,1,0,www.google.com.,,1,normal
+2024-04-10 13:26:58,15460,1,0,www.google.com.,,28,normal
+2024-04-10 13:26:58,44902,1,6,www.google.com.,5,1,normal
+2024-04-10 13:26:58,15460,1,4,www.google.com.,5,28,normal
+2024-04-10 13:26:58,36086,1,0,googleads.g.doubleclick.net.,,1,normal
+2024-04-10 13:26:58,61451,1,0,googleads.g.doubleclick.net.,,28,normal
+2024-04-10 13:26:58,36086,1,4,googleads.g.doubleclick.net.,5,1,normal
+2024-04-10 13:26:58,61451,1,4,googleads.g.doubleclick.net.,5,28,normal
+2024-04-10 13:26:58,23376,1,0,aus.mozilla.org.,,1,normal
+2024-04-10 13:26:58,1629,1,0,aus.mozilla.org.,,28,normal
+2024-04-10 13:26:58,23376,1,3,aus.mozilla.org.,5,1,normal
+2024-04-10 13:26:58,1629,1,2,aus.mozilla.org.,5,28,normal
+2024-04-10 13:26:58,59523,1,0,ocsp.digicert.com.,,1,normal
+2024-04-10 13:26:58,37760,1,0,ocsp.digicert.com.,,28,normal
+2024-04-10 13:26:58,59523,1,4,ocsp.digicert.com.,5,1,normal
+2024-04-10 13:26:58,37760,1,3,ocsp.digicert.com.,5,28,normal
+2024-04-10 13:26:59,45350,1,0,ciscobinary.openh.org.,,1,normal
+2024-04-10 13:26:59,15908,1,0,ciscobinary.openh.org.,,28,normal
+2024-04-10 13:26:59,45350,1,6,ciscobinary.openh.org.,5,1,normal
+2024-04-10 13:26:59,15908,1,6,ciscobinary.openh.org.,5,28,normal
+2024-04-10 13:27:01,38350,1,0,www.google.com.sg.,,1,normal
+2024-04-10 13:27:01,32460,1,0,www.google.com.sg.,,28,normal
+2024-04-10 13:27:01,38350,1,1,www.google.com.sg.,5,1,normal
+2024-04-10 13:27:01,32460,1,1,www.google.com.sg.,5,28,normal
+2024-04-10 13:27:02,21698,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:27:02,52416,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:27:02,21698,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:27:02,52416,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:27:03,60076,1,0,jnn-pa.googleapis.com.,,1,normal
+2024-04-10 13:27:03,42858,1,0,static.doubleclick.net.,,1,normal
+2024-04-10 13:27:03,35758,1,0,jnn-pa.googleapis.com.,,28,normal
+2024-04-10 13:27:03,53609,1,0,static.doubleclick.net.,,28,normal
+2024-04-10 13:27:03,35758,1,4,jnn-pa.googleapis.com.,5,28,normal
+2024-04-10 13:27:03,60076,1,11,jnn-pa.googleapis.com.,5,1,normal
+2024-04-10 13:27:03,53609,1,2,static.doubleclick.net.,5,28,normal
+2024-04-10 13:27:03,42858,1,2,static.doubleclick.net.,5,1,normal
+2024-04-10 13:27:03,4834,1,0,jnn-pa.googleapis.com.,,1,normal
+2024-04-10 13:27:03,19424,1,0,jnn-pa.googleapis.com.,,28,normal
+2024-04-10 13:27:03,4834,1,11,jnn-pa.googleapis.com.,5,1,normal
+2024-04-10 13:27:03,19424,1,4,jnn-pa.googleapis.com.,5,28,normal
+2024-04-10 13:27:07,60857,1,0,youtube.com.,,1,normal
+2024-04-10 13:27:07,39354,1,0,youtube.com.,,28,normal
+2024-04-10 13:27:07,60857,1,4,youtube.com.,5,1,normal
+2024-04-10 13:27:07,39354,1,4,youtube.com.,5,28,normal
+2024-04-10 13:27:07,26626,1,0,rr---sn-nugic-npoy.googlevideo.com.,,1,normal
+2024-04-10 13:27:07,269,1,0,rr---sn-nugic-npoy.googlevideo.com.,,28,normal
+2024-04-10 13:27:07,26626,1,2,rr---sn-nugic-npoy.googlevideo.com.,5,1,normal
+2024-04-10 13:27:07,269,1,2,rr---sn-nugic-npoy.googlevideo.com.,5,28,normal
+2024-04-10 13:27:07,62597,1,0,i.ytimg.com.,,1,normal
+2024-04-10 13:27:07,39818,1,0,i.ytimg.com.,,28,normal
+2024-04-10 13:27:07,62597,1,11,i.ytimg.com.,5,1,normal
+2024-04-10 13:27:07,39818,1,4,i.ytimg.com.,5,28,normal
+2024-04-10 13:27:08,2984,1,0,yt.ggpht.com.,,1,normal
+2024-04-10 13:27:08,38569,1,0,yt.ggpht.com.,,28,normal
+2024-04-10 13:27:08,2984,1,2,yt.ggpht.com.,5,1,normal
+2024-04-10 13:27:08,38569,1,2,yt.ggpht.com.,5,28,normal
+2024-04-10 13:27:09,44421,1,0,rr---sn-nugic-npoy.googlevideo.com.,,1,normal
+2024-04-10 13:27:09,1923,1,0,rr---sn-nugic-npoy.googlevideo.com.,,28,normal
+2024-04-10 13:27:09,44421,1,2,rr---sn-nugic-npoy.googlevideo.com.,5,1,normal
+2024-04-10 13:27:09,1923,1,2,rr---sn-nugic-npoy.googlevideo.com.,5,28,normal
+2024-04-10 13:27:11,63780,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:27:11,27943,1,0,safebrowsing.googleapis.com.,,28,normal
+2024-04-10 13:27:11,27943,1,1,safebrowsing.googleapis.com.,5,28,normal
+2024-04-10 13:27:11,63780,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:27:11,15783,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:27:11,40870,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:27:11,40870,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:27:11,15783,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:27:14,64633,1,0,www.wikipedia.org.,,1,normal
+2024-04-10 13:27:14,16504,1,0,www.wikipedia.org.,,28,normal
+2024-04-10 13:27:14,64633,1,2,www.wikipedia.org.,5,1,normal
+2024-04-10 13:27:14,16504,1,2,www.wikipedia.org.,5,28,normal
+2024-04-10 13:27:14,18432,1,0,upload.wikimedia.org.,,1,normal
+2024-04-10 13:27:14,23565,1,0,upload.wikimedia.org.,,28,normal
+2024-04-10 13:27:14,23565,1,1,upload.wikimedia.org.,5,28,normal
+2024-04-10 13:27:14,18432,1,1,upload.wikimedia.org.,5,1,normal
+2024-04-10 13:27:14,3591,1,0,en.wikipedia.org.,,1,normal
+2024-04-10 13:27:14,15363,1,0,en.wikipedia.org.,,28,normal
+2024-04-10 13:27:14,3591,1,2,en.wikipedia.org.,5,1,normal
+2024-04-10 13:27:14,15363,1,2,en.wikipedia.org.,5,28,normal
+2024-04-10 13:27:19,25229,1,0,www.reddit.com.,,1,normal
+2024-04-10 13:27:19,45452,1,0,www.reddit.com.,,28,normal
+2024-04-10 13:27:19,25229,1,2,www.reddit.com.,5,1,normal
+2024-04-10 13:27:19,45452,1,1,www.reddit.com.,5,28,normal
+2024-04-10 13:27:20,26603,1,0,www.redditstatic.com.,,1,normal
+2024-04-10 13:27:20,44266,1,0,www.redditstatic.com.,,28,normal
+2024-04-10 13:27:20,44266,1,2,www.redditstatic.com.,5,28,normal
+2024-04-10 13:27:20,26603,1,2,www.redditstatic.com.,5,1,normal
+2024-04-10 13:27:20,19340,1,0,external-preview.redd.it.,,1,normal
+2024-04-10 13:27:20,26546,1,0,external-preview.redd.it.,,28,normal
+2024-04-10 13:27:20,26546,1,2,external-preview.redd.it.,5,28,normal
+2024-04-10 13:27:20,19340,1,2,external-preview.redd.it.,5,1,normal
+2024-04-10 13:27:20,63763,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:27:20,63763,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:27:20,62114,1,0,preview.redd.it.,,1,normal
+2024-04-10 13:27:20,57504,1,0,preview.redd.it.,,28,normal
+2024-04-10 13:27:20,57504,1,2,preview.redd.it.,5,28,normal
+2024-04-10 13:27:20,62114,1,2,preview.redd.it.,5,1,normal
+2024-04-10 13:27:20,45250,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:27:20,45250,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:27:20,4973,1,0,w-reporting.reddit.com.,,1,normal
+2024-04-10 13:27:20,55147,1,0,w-reporting.reddit.com.,,28,normal
+2024-04-10 13:27:20,4973,1,2,w-reporting.reddit.com.,5,1,normal
+2024-04-10 13:27:20,55147,1,1,w-reporting.reddit.com.,5,28,normal
+2024-04-10 13:27:21,7,1,0,ad-delivery.net.,,1,normal
+2024-04-10 13:27:21,10248,1,0,ad-delivery.net.,,28,normal
+2024-04-10 13:27:21,7,1,3,ad-delivery.net.,5,1,normal
+2024-04-10 13:27:21,10248,1,3,ad-delivery.net.,5,28,normal
+2024-04-10 13:27:21,46885,1,0,styles.redditmedia.com.,,1,normal
+2024-04-10 13:27:21,15911,1,0,styles.redditmedia.com.,,28,normal
+2024-04-10 13:27:21,19266,1,0,b.thumbs.redditmedia.com.,,1,normal
+2024-04-10 13:27:21,3197,1,0,b.thumbs.redditmedia.com.,,28,normal
+2024-04-10 13:27:21,46885,1,2,styles.redditmedia.com.,5,1,normal
+2024-04-10 13:27:21,15911,1,2,styles.redditmedia.com.,5,28,normal
+2024-04-10 13:27:21,19266,1,2,b.thumbs.redditmedia.com.,5,1,normal
+2024-04-10 13:27:21,3197,1,2,b.thumbs.redditmedia.com.,5,28,normal
+2024-04-10 13:27:21,18717,1,0,alb.reddit.com.,,1,normal
+2024-04-10 13:27:21,4380,1,0,alb.reddit.com.,,28,normal
+2024-04-10 13:27:21,18717,1,2,alb.reddit.com.,5,1,normal
+2024-04-10 13:27:21,4380,1,1,alb.reddit.com.,5,28,normal
+2024-04-10 13:27:21,49918,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:27:21,49918,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:27:21,51138,1,0,www.google.com.,,1,normal
+2024-04-10 13:27:21,19652,1,0,www.google.com.,,28,normal
+2024-04-10 13:27:21,51138,1,6,www.google.com.,5,1,normal
+2024-04-10 13:27:21,19652,1,4,www.google.com.,5,28,normal
+2024-04-10 13:27:21,27923,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:27:21,43281,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:27:21,43281,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:27:21,27923,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:27:21,16033,1,0,encrypted-tbn.gstatic.com.,,1,normal
+2024-04-10 13:27:21,23518,1,0,encrypted-tbn.gstatic.com.,,28,normal
+2024-04-10 13:27:21,16033,1,6,encrypted-tbn.gstatic.com.,5,1,normal
+2024-04-10 13:27:21,23518,1,4,encrypted-tbn.gstatic.com.,5,28,normal
+2024-04-10 13:27:21,17127,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:27:21,64229,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:27:21,17127,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:27:21,64229,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:27:22,8689,1,0,accounts.google.com.,,1,normal
+2024-04-10 13:27:22,55539,1,0,accounts.google.com.,,28,normal
+2024-04-10 13:27:22,8689,1,1,accounts.google.com.,5,1,normal
+2024-04-10 13:27:22,55539,1,1,accounts.google.com.,5,28,normal
+2024-04-10 13:27:22,61628,1,0,i.redd.it.,,1,normal
+2024-04-10 13:27:22,53179,1,0,i.redd.it.,,28,normal
+2024-04-10 13:27:22,61628,1,2,i.redd.it.,5,1,normal
+2024-04-10 13:27:22,53179,1,2,i.redd.it.,5,28,normal
+2024-04-10 13:27:22,44800,1,0,www.home.saxo.,,1,normal
+2024-04-10 13:27:22,10502,1,0,www.home.saxo.,,28,normal
+2024-04-10 13:27:22,44800,1,3,www.home.saxo.,5,1,normal
+2024-04-10 13:27:22,10502,1,2,www.home.saxo.,5,28,normal
+2024-04-10 13:27:23,4723,1,0,a.thumbs.redditmedia.com.,,1,normal
+2024-04-10 13:27:23,46705,1,0,a.thumbs.redditmedia.com.,,28,normal
+2024-04-10 13:27:23,46705,1,2,a.thumbs.redditmedia.com.,5,28,normal
+2024-04-10 13:27:23,4723,1,2,a.thumbs.redditmedia.com.,5,1,normal
+2024-04-10 13:27:24,57942,1,0,v.redd.it.,,1,normal
+2024-04-10 13:27:24,27220,1,0,v.redd.it.,,28,normal
+2024-04-10 13:27:24,27220,1,2,v.redd.it.,5,28,normal
+2024-04-10 13:27:24,57942,1,2,v.redd.it.,5,1,normal
+2024-04-10 13:27:25,50167,1,0,play.google.com.,,1,normal
+2024-04-10 13:27:25,8184,1,0,play.google.com.,,28,normal
+2024-04-10 13:27:25,50167,1,6,play.google.com.,5,1,normal
+2024-04-10 13:27:25,8184,1,4,play.google.com.,5,28,normal
+2024-04-10 13:27:29,63427,1,0,twitter.com.,,1,normal
+2024-04-10 13:27:29,38850,1,0,twitter.com.,,28,normal
+2024-04-10 13:27:29,63427,1,4,twitter.com.,5,1,normal
+2024-04-10 13:27:29,38850,1,0,twitter.com.,,28,normal
+2024-04-10 13:27:29,52779,1,0,abs.twimg.com.,,1,normal
+2024-04-10 13:27:29,23828,1,0,abs.twimg.com.,,28,normal
+2024-04-10 13:27:29,17143,1,0,api.twitter.com.,,1,normal
+2024-04-10 13:27:29,23798,1,0,api.twitter.com.,,28,normal
+2024-04-10 13:27:29,23828,1,2,abs.twimg.com.,5,28,normal
+2024-04-10 13:27:29,23798,1,1,api.twitter.com.,5,28,normal
+2024-04-10 13:27:29,17143,1,5,api.twitter.com.,5,1,normal
+2024-04-10 13:27:29,52779,1,2,abs.twimg.com.,5,1,normal
+2024-04-10 13:27:30,13529,1,0,api.x.com.,,1,normal
+2024-04-10 13:27:30,61656,1,0,api.x.com.,,28,normal
+2024-04-10 13:27:30,4622,1,0,pbs.twimg.com.,,1,normal
+2024-04-10 13:27:30,58639,1,0,pbs.twimg.com.,,28,normal
+2024-04-10 13:27:30,30660,1,0,t.co.,,1,normal
+2024-04-10 13:27:30,36036,1,0,t.co.,,28,normal
+2024-04-10 13:27:30,30446,1,0,video.twimg.com.,,1,normal
+2024-04-10 13:27:30,33774,1,0,video.twimg.com.,,28,normal
+2024-04-10 13:27:30,13529,1,5,api.x.com.,5,1,normal
+2024-04-10 13:27:30,30660,1,1,t.co.,5,1,normal
+2024-04-10 13:27:30,58639,1,5,pbs.twimg.com.,5,28,normal
+2024-04-10 13:27:30,30446,1,2,video.twimg.com.,5,1,normal
+2024-04-10 13:27:30,61656,1,1,api.x.com.,5,28,normal
+2024-04-10 13:27:30,4622,1,5,pbs.twimg.com.,5,1,normal
+2024-04-10 13:27:30,33774,1,5,video.twimg.com.,5,28,normal
+2024-04-10 13:27:30,36036,1,0,t.co.,,28,normal
+2024-04-10 13:27:30,9316,1,0,accounts.google.com.,,1,normal
+2024-04-10 13:27:30,31589,1,0,accounts.google.com.,,28,normal
+2024-04-10 13:27:30,9316,1,1,accounts.google.com.,5,1,normal
+2024-04-10 13:27:30,31589,1,1,accounts.google.com.,5,28,normal
+2024-04-10 13:27:30,31453,1,0,api.twitter.com.,,1,normal
+2024-04-10 13:27:30,62172,1,0,api.twitter.com.,,28,normal
+2024-04-10 13:27:30,31453,1,5,api.twitter.com.,5,1,normal
+2024-04-10 13:27:30,62172,1,1,api.twitter.com.,5,28,normal
+2024-04-10 13:27:31,12600,1,0,appleid.cdn-apple.com.,,1,normal
+2024-04-10 13:27:31,47675,1,0,appleid.cdn-apple.com.,,28,normal
+2024-04-10 13:27:31,12600,1,4,appleid.cdn-apple.com.,5,1,normal
+2024-04-10 13:27:31,47675,1,3,appleid.cdn-apple.com.,5,28,normal
+2024-04-10 13:27:31,23392,1,0,static.ads-twitter.com.,,1,normal
+2024-04-10 13:27:31,28258,1,0,static.ads-twitter.com.,,28,normal
+2024-04-10 13:27:31,23392,1,2,static.ads-twitter.com.,5,1,normal
+2024-04-10 13:27:31,28258,1,1,static.ads-twitter.com.,5,28,normal
+2024-04-10 13:27:31,10038,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:27:31,61751,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:27:31,10038,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:27:31,61751,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:27:32,63165,1,0,www.google-analytics.com.,,1,normal
+2024-04-10 13:27:32,33471,1,0,www.google-analytics.com.,,28,normal
+2024-04-10 13:27:32,63165,1,6,www.google-analytics.com.,5,1,normal
+2024-04-10 13:27:32,33471,1,4,www.google-analytics.com.,5,28,normal
+2024-04-10 13:27:33,393,1,0,analytics.twitter.com.,,1,normal
+2024-04-10 13:27:33,45450,1,0,analytics.twitter.com.,,28,normal
+2024-04-10 13:27:33,45450,1,2,analytics.twitter.com.,5,28,normal
+2024-04-10 13:27:33,393,1,3,analytics.twitter.com.,5,1,normal
+2024-04-10 13:27:35,33201,1,0,play.google.com.,,1,normal
+2024-04-10 13:27:35,48050,1,0,play.google.com.,,28,normal
+2024-04-10 13:27:35,33201,1,6,play.google.com.,5,1,normal
+2024-04-10 13:27:35,48050,1,4,play.google.com.,5,28,normal
+2024-04-10 13:27:58,38672,1,0,contile.services.mozilla.com.,,1,normal
+2024-04-10 13:27:58,45074,1,0,contile.services.mozilla.com.,,28,normal
+2024-04-10 13:27:58,38672,1,1,contile.services.mozilla.com.,5,1,normal
+2024-04-10 13:27:58,45074,1,0,contile.services.mozilla.com.,,28,normal
+2024-04-10 13:27:58,63785,1,0,r.o.lencr.org.,,1,normal
+2024-04-10 13:27:58,33079,1,0,r.o.lencr.org.,,28,normal
+2024-04-10 13:27:58,63785,1,4,r.o.lencr.org.,5,1,normal
+2024-04-10 13:27:58,33079,1,4,r.o.lencr.org.,5,28,normal
+2024-04-10 13:27:58,33426,1,0,content-signature-.cdn.mozilla.net.,,1,normal
+2024-04-10 13:27:58,38892,1,0,content-signature-.cdn.mozilla.net.,,28,normal
+2024-04-10 13:27:58,33426,1,3,content-signature-.cdn.mozilla.net.,5,1,normal
+2024-04-10 13:27:58,38892,1,3,content-signature-.cdn.mozilla.net.,5,28,normal
+2024-04-10 13:27:59,52637,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:27:59,16995,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:27:59,52637,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:27:59,16995,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:27:59,24135,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:27:59,37440,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:27:59,24135,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:27:59,37440,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:27:59,50113,1,0,push.services.mozilla.com.,,1,normal
+2024-04-10 13:27:59,53955,1,0,push.services.mozilla.com.,,28,normal
+2024-04-10 13:27:59,53955,1,1,push.services.mozilla.com.,5,28,normal
+2024-04-10 13:27:59,50113,1,2,push.services.mozilla.com.,5,1,normal
+2024-04-10 13:27:59,42002,1,0,firefox.settings.services.mozilla.com.,,1,normal
+2024-04-10 13:27:59,50700,1,0,firefox.settings.services.mozilla.com.,,28,normal
+2024-04-10 13:27:59,50700,1,1,firefox.settings.services.mozilla.com.,5,28,normal
+2024-04-10 13:27:59,42002,1,2,firefox.settings.services.mozilla.com.,5,1,normal
+2024-04-10 13:28:17,34968,1,0,www.google.com.,,1,normal
+2024-04-10 13:28:17,57499,1,0,www.google.com.,,28,normal
+2024-04-10 13:28:17,34968,1,6,www.google.com.,5,1,normal
+2024-04-10 13:28:17,57499,1,4,www.google.com.,5,28,normal
+2024-04-10 13:28:17,48480,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:28:17,15203,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:28:17,15203,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:28:17,48480,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:28:17,27694,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:28:17,6443,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:28:17,27694,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:28:17,6443,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:28:17,11985,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:28:17,54739,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:28:17,11985,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:28:17,54739,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:28:17,31480,1,0,id.google.com.,,1,normal
+2024-04-10 13:28:17,38142,1,0,id.google.com.,,28,normal
+2024-04-10 13:28:17,31480,1,1,id.google.com.,5,1,normal
+2024-04-10 13:28:17,38142,1,1,id.google.com.,5,28,normal
+2024-04-10 13:28:17,45314,1,0,www.gstatic.com.,,1,normal
+2024-04-10 13:28:17,6149,1,0,www.gstatic.com.,,28,normal
+2024-04-10 13:28:17,45314,1,1,www.gstatic.com.,5,1,normal
+2024-04-10 13:28:17,6149,1,1,www.gstatic.com.,5,28,normal
+2024-04-10 13:28:18,47341,1,0,apis.google.com.,,1,normal
+2024-04-10 13:28:18,5102,1,0,apis.google.com.,,28,normal
+2024-04-10 13:28:18,5102,1,5,apis.google.com.,5,28,normal
+2024-04-10 13:28:18,47341,1,7,apis.google.com.,5,1,normal
+2024-04-10 13:28:18,29755,1,0,adservice.google.com.,,1,normal
+2024-04-10 13:28:18,36920,1,0,adservice.google.com.,,28,normal
+2024-04-10 13:28:18,29755,1,4,adservice.google.com.,5,1,normal
+2024-04-10 13:28:18,36920,1,4,adservice.google.com.,5,28,normal
+2024-04-10 13:28:18,64025,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:28:18,63519,1,0,safebrowsing.googleapis.com.,,28,normal
+2024-04-10 13:28:18,64025,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:28:18,63519,1,1,safebrowsing.googleapis.com.,5,28,normal
+2024-04-10 13:28:18,33625,1,0,ocsp.pki.goog.,,1,normal
+2024-04-10 13:28:18,1887,1,0,ocsp.pki.goog.,,28,normal
+2024-04-10 13:28:18,33625,1,2,ocsp.pki.goog.,5,1,normal
+2024-04-10 13:28:18,1887,1,2,ocsp.pki.goog.,5,28,normal
+2024-04-10 13:28:18,31563,1,0,googleads.g.doubleclick.net.,,1,normal
+2024-04-10 13:28:18,53578,1,0,googleads.g.doubleclick.net.,,28,normal
+2024-04-10 13:28:18,31563,1,4,googleads.g.doubleclick.net.,5,1,normal
+2024-04-10 13:28:18,53578,1,4,googleads.g.doubleclick.net.,5,28,normal
+2024-04-10 13:28:18,61960,1,0,safebrowsing.googleapis.com.,,1,normal
+2024-04-10 13:28:18,61960,1,1,safebrowsing.googleapis.com.,5,1,normal
+2024-04-10 13:28:30,2136,1,0,www.kali.org.,,1,normal
+2024-04-10 13:28:30,43098,1,0,www.kali.org.,,28,normal
+2024-04-10 13:28:30,43098,1,2,www.kali.org.,5,28,normal
+2024-04-10 13:28:30,2136,1,2,www.kali.org.,5,1,normal
+2024-04-10 13:28:32,42563,1,0,fonts.googleapis.com.,,1,normal
+2024-04-10 13:28:32,5696,1,0,fonts.googleapis.com.,,28,normal
+2024-04-10 13:28:32,42563,1,1,fonts.googleapis.com.,5,1,normal
+2024-04-10 13:28:32,5696,1,1,fonts.googleapis.com.,5,28,normal
+2024-04-10 13:28:32,33429,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:28:32,24212,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:28:32,33429,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:28:32,24212,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:28:33,47119,1,0,fonts.gstatic.com.,,1,normal
+2024-04-10 13:28:33,8974,1,0,fonts.gstatic.com.,,28,normal
+2024-04-10 13:28:33,47119,1,1,fonts.gstatic.com.,5,1,normal
+2024-04-10 13:28:33,8974,1,1,fonts.gstatic.com.,5,28,normal
+2024-04-10 13:28:39,22119,1,0,arm.kali.org.,,1,normal
+2024-04-10 13:28:39,23398,1,0,arm.kali.org.,,28,normal
+2024-04-10 13:28:39,22119,1,2,arm.kali.org.,5,1,normal
+2024-04-10 13:28:39,23398,1,2,arm.kali.org.,5,28,normal
+2024-04-10 13:28:39,61269,1,0,r.o.lencr.org.,,1,normal
+2024-04-10 13:28:39,61269,1,4,r.o.lencr.org.,5,1,normal
+2024-04-10 13:28:40,8034,1,0,cdn.datatables.net.,,1,normal
+2024-04-10 13:28:40,35680,1,0,cdn.datatables.net.,,28,normal
+2024-04-10 13:28:40,8034,1,3,cdn.datatables.net.,5,1,normal
+2024-04-10 13:28:40,35680,1,3,cdn.datatables.net.,5,28,normal
+2024-04-10 13:28:40,12649,1,0,code.jquery.com.,,1,normal
+2024-04-10 13:28:40,44398,1,0,code.jquery.com.,,28,normal
+2024-04-10 13:28:40,12649,1,4,code.jquery.com.,5,1,normal
+2024-04-10 13:28:40,44398,1,4,code.jquery.com.,5,28,normal
